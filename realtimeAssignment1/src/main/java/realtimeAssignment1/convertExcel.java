@@ -96,7 +96,7 @@ public class convertExcel extends Thread{
             }
         }
 
-        try (FileOutputStream outputStream = new FileOutputStream("Assignment1Output.xlsx")) {
+        try (FileOutputStream outputStream = new FileOutputStream("Assignment1.xlsx")) {
             workbook.write(outputStream);
             workbook.close();
         } catch (FileNotFoundException e) {

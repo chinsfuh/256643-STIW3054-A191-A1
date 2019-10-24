@@ -12,7 +12,7 @@
 ![alt text](https://github.com/chinsfuh/2566432-STIW3054-A191-A1/blob/master/realtimeAssignment1/Capture2.PNG)
 
 ## UML Class Diagram
-![alt text]()
+![alt text](https://github.com/chinsfuh/256643-STIW3054-A191-A1/blob/master/realtimeAssignment1/classDiagram.PNG)
 
 ## Youtube Presentation
 https://www.youtube.com/

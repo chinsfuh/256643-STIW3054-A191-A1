@@ -18,7 +18,5 @@
 https://www.youtube.com/
 
 ## References
-1. Regular expressions in Java - Tutorial. (2019). Retrieved 18 October 2019, from https://www.vogella.com/tutorials/JavaRegularExpressions/article.html  
-2. Class Diagrams with ObjectAid. (2019). Retrieved 18 October 2019, from https://www.youtube.com/watch?v=Foh4juv1CW4
-3. Submission Assignment-1 · Issue #1 · STIW3054-A191/Assignments. (2019). Retrieved 18 October 2019, from https://github.com/STIW3054-A191/Assignments/issues/1
-4. STIW3054-A191/Assignments. (2019). Retrieved 18 October 2019, from https://github.com/STIW3054-A191/Assignments/wiki/List_of_Student 
+1. https://jsoup.org/
+2. https://github.com/STIW3054-A182
